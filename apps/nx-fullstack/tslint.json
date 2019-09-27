@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "nxFullstack", "camelCase"],
+    "component-selector": [true, "element", "nx-fullstack", "kebab-case"]
+  }
+}
