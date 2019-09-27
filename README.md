@@ -2,6 +2,21 @@
 
 This project was generated using [Nx](https://nx.dev).
 
+Generate the nx project:
+
+```
+npx create-nx-workspace@latest nx-fullstack
+```
+
+Dong the following in the wizard:
+
+```
+? What to create in the new workspace angular-nest      [a workspace with a full stack application (Angular + Nest)]
+? Application name                    nx-fullstack
+? Default stylesheet format           SASS(.scss)  [ http://sass-lang.com   ]
+
+```
+
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
